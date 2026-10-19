@@ -2,8 +2,7 @@
 
 Ein portables Windows-Tool mit grafischer Oberfläche zum gleichzeitigen Transkodieren von **FLAC- und WAV-Dateien** nach **FLAC, MP3 und WAV**. Die Anwendung verwendet [FFmpeg](https://ffmpeg.org/) für die Audiokonvertierung, erstellt automatisch M3U-Playlists und übernimmt auf Wunsch Coverbilder sowie PDF-Dateien in die Ausgabeordner.
 
-> [!IMPORTANT]
-> **Hinweis zur Entstehung:** Der Quellcode dieses Projekts wurde zu **99,9 % mit künstlicher Intelligenz generiert**, anschließend jedoch **von einem Menschen getestet**.
+<img width="480" alt="MZFlacTranscoder" src="https://github.com/user-attachments/assets/706e4894-74ce-45da-8b77-2948cd0312ec" />
 
 ## Funktionen
 
@@ -275,6 +274,7 @@ Starte das Programm anschließend neu. Prüfe außerdem Schreibrechte, Quelldate
 ## Projektstatus
 
 Aktuelle Version: **1.5.0.0**
+
 
 Das Projekt ist als kompaktes, portables Windows-Werkzeug ausgelegt. Beiträge, Fehlerberichte und Verbesserungsvorschläge können über die Issues und Pull Requests des GitHub-Repositories eingereicht werden.
 
